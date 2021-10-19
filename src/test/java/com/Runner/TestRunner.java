@@ -2,7 +2,7 @@ package com.Runner;
 
 public class TestRunner {
 
-	private void mai() {
+	private void main() {
 		
 		System.out.println("First Line");
 	}
